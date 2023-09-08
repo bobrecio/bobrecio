@@ -7,8 +7,8 @@ original from https://sarah-hart-landolt.medium.com/6-easy-steps-to-create-a-bea
     a. https://profilinator.rishav.dev/
     b. Copy someone else's README
 5. Add dynamic stats
-    a. https://github.com/anuraghazra/github-readme-stats
+    a. https://github.com/bobrecio/github-readme-stats
     b. Copy from someone else's stats
-6. Add bells and whistle; https://github.com/abhisheknaiidu/awesome-github-profile-readme#tools
+6. Add bells and whistle; https://github.com/bobrecio/awesome-github-profile-readme#tools
 
 Also, see Monica Powell https://aboutmonica.com/blog/how-to-create-a-github-profile-readme
