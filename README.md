@@ -1,8 +1,9 @@
 ### Bob Recio
-
+<!-->
 <a href="https://app.daily.dev"><img src="https://github.com/bobrecio/bobrecio/blob/main/devcard.svg" width="400" alt="Bob Recio's Dev Card"/></a>
 
 <h1><a href="https://www.credly.com/users/bob-recio" title="link to my profile" tartget="_blank">Credly Badges</a></h1>
+-->
 <!--START_SECTION:badges-->
 [![Proofpoint Certified AI/ML Specialist 2023](https://images.credly.com/size/110x110/images/93ccbbd1-b6ab-43ad-b485-a7dffa92f92e/image.png)](http://www.credly.com/badges/596a6a57-485e-49a8-8563-a6bb89467933 "Proofpoint Certified AI/ML Specialist 2023")
 [![Docker Foundational](https://images.credly.com/size/110x110/images/703366ba-6f9c-4551-b9ff-9b1d12d65369/image.png)](http://www.credly.com/badges/86426871-72e5-493a-94d9-2162efd5259e "Docker Foundational")
