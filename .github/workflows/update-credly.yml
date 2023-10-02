@@ -1,4 +1,4 @@
-name: Update Credly badges
+name: Update badges
 
 on:
   workflow_dispatch:
