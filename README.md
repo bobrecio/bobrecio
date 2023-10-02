@@ -1,5 +1,5 @@
 ### Bob Recio
-<!-->
+<!--
 <a href="https://app.daily.dev"><img src="https://github.com/bobrecio/bobrecio/blob/main/devcard.svg" width="400" alt="Bob Recio's Dev Card"/></a>
 
 <h1><a href="https://www.credly.com/users/bob-recio" title="link to my profile" tartget="_blank">Credly Badges</a></h1>
