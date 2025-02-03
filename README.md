@@ -12,7 +12,6 @@
 [![Artificial Intelligence Enablement (AI Aware)](https://images.credly.com/size/110x110/images/4bb166fe-3c14-486d-9bfa-4fd289f88e1f/image.png)](http://www.credly.com/badges/2ab48b74-3205-4eb7-9bdf-20afb967cac1 "Artificial Intelligence Enablement (AI Aware)")
 <!--END_SECTION:badges-->
 
-
 <a href="https://app.daily.dev">
 <img src="https://github.com/bobrecio/bobrecio/blob/main/devcard.svg" width="400" alt="Bob Recio's Dev Card"/>
 </a>
